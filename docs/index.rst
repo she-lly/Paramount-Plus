@@ -12,7 +12,7 @@ Paramount Plus has established itself as a premier streaming platform, offering 
 .. image:: https://img.shields.io/badge/Login%20Now-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
    :width: 200px
    :align: center
-   :target: https://aclogportal.com/spectrum-tv-login
+   :target: https://aclogportal.com/paramountplus-login
    :alt: Login Now Button
 
 With content from CBS, Paramount Pictures, Nickelodeon, MTV, Comedy Central, and BET, millions of subscribers rely on Paramount Plus for diverse entertainment options across multiple devices and platforms.
